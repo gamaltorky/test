@@ -1,0 +1,139 @@
+*{
+    direction: rtl;
+    padding: 0%;
+    margin: 0%;
+   
+    
+
+}
+/* start home page */
+
+ .two {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #3c3e3e;
+  }
+  
+  .one {
+    float: right;
+    border-left: 1px solid #bbb ;
+  }
+  
+ .one a {
+    display: block;
+    color: white;
+    font-size: 30px;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .one a:hover {
+    background-color: #909090;
+    
+  }
+
+ .one:last-child {
+    float: left;
+    border-left: none;
+  }
+  .active{
+    background-color: #04AA6D;
+  }
+
+.ahlyphoto{
+    width: 1450px;
+    margin: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.iframe{
+    margin: 30px;
+}
+
+.h{
+    margin: 30px;
+    font-size: 30px;
+    padding: 10px 30px;
+    background-color: #bbbbbba4;
+}
+
+.div1{
+    text-align: center;
+    width: 350px;
+   height: 400px;
+   font-size: xx-large;
+   background-color:  #5f9ea01a;
+   margin: 30px;
+   padding: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.div2{
+    text-align: center;
+    width: 350px;
+    height: 400px;
+   font-size: xx-large;
+   background-color:  #5f9ea01a;
+   margin: 30px;
+   padding: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.div3{
+    text-align: center;
+    width: 350px;
+    height: 400px;
+   font-size: xx-large;
+   background-color:  #5f9ea01a;
+   margin: 30px;
+   padding: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.div1:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.div2:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.div3:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.parent:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.ulstyle{
+    list-style-type: none;
+}
+.divbutton{
+    text-align: center;
+}
+
+.button{
+    margin: 30px;
+    width: 300px;
+    height: 100px;
+    background-color:#2f4f4fec ;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    border: none;
+    border-radius: 20px;
+}
+.button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.footer{
+    text-align: center;
+    background-color: #04AA6D;
+    padding: 30px;
+}
+
+
